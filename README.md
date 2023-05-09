@@ -1,6 +1,7 @@
-# FileRenamerPy
+# RenameMagic
 
-FileRenamerPy is a Python script that allows you to easily rename multiple files within a folder or directory. With this script, you can automate the process of file renaming, saving you time and effort.
+
+RenameMagic is a Python script that allows you to easily rename multiple files within a folder or directory. With this script, you can automate the process of file renaming, saving you time and effort.
 
 ## Features
 
